@@ -27,7 +27,7 @@ img {
   vertical-align: middle;
 }
 
-a {
+a{
   color: #373B47;
   text-decoration: none;
 }
@@ -67,7 +67,7 @@ header{
   padding: 70px;
 }
 
-.text-ome{
+.text-home{
   font-size: 53px;
 }
 
@@ -81,4 +81,54 @@ header{
   margin-top: 63px;
   display: inline-block;
   font-size: 14px;
+}
+
+#services{
+  background-color: #F17C72;
+  text-align: center;
+  color: #fff;
+  padding: 70px 7px;
+
+}
+
+.box-services{
+  display: inline-block;
+  width: 30%;
+  margin-top: 63px;
+
+}
+
+.text-services{
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+
+#work{
+  background-color: white;
+  text-align: center;
+  color: black;
+  padding: 70px 7px;
+}
+
+.box-work{
+  background-image: url(../assets/images/hero.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 554px;
+  text-align: center;
+  margin-top: 80px;
+}
+.text-work{
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+
+
+footer{
+  text-align: center;
+  height: 70px;
+  background-color: #373b47;
+  color: white;
+  padding-top: 7px;
 }

@@ -124,6 +124,11 @@ header{
   letter-spacing: 2px;
 }
 
+h4{
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
 
 footer{
   text-align: center;
